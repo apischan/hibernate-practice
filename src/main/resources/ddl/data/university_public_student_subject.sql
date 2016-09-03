@@ -1,0 +1,14 @@
+INSERT INTO public.student_subject (student_id, subject_id, year, id, teacher_id) VALUES (1, 2, '2016-09-01', 1, 1);
+INSERT INTO public.student_subject (student_id, subject_id, year, id, teacher_id) VALUES (2, 2, '2014-09-22', 3, 4);
+INSERT INTO public.student_subject (student_id, subject_id, year, id, teacher_id) VALUES (3, 1, '2014-09-07', 5, 2);
+INSERT INTO public.student_subject (student_id, subject_id, year, id, teacher_id) VALUES (3, 4, '2014-09-14', 7, 3);
+INSERT INTO public.student_subject (student_id, subject_id, year, id, teacher_id) VALUES (3, 2, '2016-09-10', 6, 4);
+INSERT INTO public.student_subject (student_id, subject_id, year, id, teacher_id) VALUES (4, 3, '2014-09-07', 10, 3);
+INSERT INTO public.student_subject (student_id, subject_id, year, id, teacher_id) VALUES (4, 4, '2015-09-10', 12, 2);
+INSERT INTO public.student_subject (student_id, subject_id, year, id, teacher_id) VALUES (5, 2, '2013-08-19', 14, 2);
+INSERT INTO public.student_subject (student_id, subject_id, year, id, teacher_id) VALUES (4, 2, '2011-07-21', 11, 1);
+INSERT INTO public.student_subject (student_id, subject_id, year, id, teacher_id) VALUES (2, 3, '2010-09-01', 9, 1);
+INSERT INTO public.student_subject (student_id, subject_id, year, id, teacher_id) VALUES (2, 2, '2013-09-23', 8, 2);
+INSERT INTO public.student_subject (student_id, subject_id, year, id, teacher_id) VALUES (2, 3, '2016-09-05', 4, 1);
+INSERT INTO public.student_subject (student_id, subject_id, year, id, teacher_id) VALUES (1, 4, '2013-08-14', 2, 3);
+INSERT INTO public.student_subject (student_id, subject_id, year, id, teacher_id) VALUES (5, 3, '2014-09-16', 13, 4);
